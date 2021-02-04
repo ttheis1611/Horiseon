@@ -1,44 +1,49 @@
-# 01 HTML CSS Git: Code Refactor
+Horiseon Challenge
+Update to Semantic HTML elements, add descriptive alt attributes update CSS file per the customer requirements. 
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+This included debug of nav buttons to allow a better experience for the site visitor. This project improved the div sections, attributes, articles and asides. A great challenge to learn how this should work and flow.
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+Usage
+Access page and use navigation to move to other sections of the site with ease.
 
-> Always leave the code you are editing a little cleaner than you found it.
+![PageScreenShot](.images/PageScreenShot.jpg)
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+Credits
+Kelly Gowing, others with very helpful time loaned to get this done.
 
-## User Story
+License
+This is free and unencumbered software released into the public domain.
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
 
-## Acceptance Criteria
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
 
-## Review
+For more information, please refer to <https://unlicense.org>
 
-You are required to submit the following for review:
+Features
+No special features
 
-* The URL of the deployed application.
+Tests
+Use on the Header navigation titles:
+    1. Click on "Search Engine Optimization", should take you to the SEO section of the site
+    2. Click on "Online Reputation Management", should take you to the Online Reputation Management section of the site
+    3. Click on "Social Media Marketing", should take you to the Social Media Marketing section of the site
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
