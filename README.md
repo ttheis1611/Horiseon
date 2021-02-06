@@ -38,8 +38,14 @@ OTHER DEALINGS IN THE SOFTWARE.
 For more information, please refer to <https://unlicense.org>
 
 Features
-No special features
-
+    Updated to include SEO elements 
+    NAV replaced DIV
+    SECTION replaced DIV
+    ARTICLE replaced DIV
+    ASIDE replaced DIV
+    ADDED ALT tags and comments
+    ADDED info comments to describe html and css
+    
 Tests
 Use on the Header navigation titles:
     1. Click on "Search Engine Optimization", should take you to the SEO section of the site
