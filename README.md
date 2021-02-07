@@ -7,7 +7,7 @@ Nav buttons to allow a better experience for the site visitor. This project impr
 ## Usage
 Access page and use navigation to move to other sections of the site with ease.
 
-## ![PageScreenShot](https://ttheis1611.github.io/Horiseon/assets/images/PageScreenShot.jpg)
+## ![PageScreenShot](https://ttheis1611.github.io/Horiseon/assets/images/PageScreenShot.JPG)
 
 ## Credits
 Kelly Gowing, others with very helpful time loaned to get this done.
