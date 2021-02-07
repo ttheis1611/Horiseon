@@ -48,7 +48,7 @@ For more information, please refer to <https://unlicense.org>
     * ADDED info comments to describe html and css
     
 ## Tests
-Use on the Header navigation titles:
+## Use on the Header navigation titles:
     * 1. Click on "Search Engine Optimization", should take you to the SEO section of the site
     * 2. Click on "Online Reputation Management", should take you to the Online Reputation Management section of the site
     * 3. Click on "Social Media Marketing", should take you to the Social Media Marketing section of the site
